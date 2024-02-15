@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			"node_modules": true,
+			".git": true,
+		},
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#4B1E35",
+			"titleBar.activeBackground": "#69294A",
+			"titleBar.activeForeground": "#FCF8FA"
+		}
+	}
+}

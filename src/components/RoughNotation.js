@@ -93,6 +93,7 @@ export default (options) =>
         padding: this.padding,
         multiline: this.multiline,
         iterations: this.iterations,
+        brackets: this.brackets,
       });
 
       this.$emit('init', this.annotation);

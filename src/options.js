@@ -21,5 +21,5 @@ export const defaultOptions = {
   // Value could be a string or an array of strings,
   // each string being one of these values: left, right, top, bottom.
   // When drawing a bracket, this configures which side(s) of the element to bracket.
-  brackets: 'right',
+  brackets: 'left',
 };
